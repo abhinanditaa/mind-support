@@ -1,0 +1,21 @@
+# Flask backend
+Flask==3.0.3
+Flask-Cors==5.0.0
+Flask-JWT-Extended==4.6.0
+
+# Databases
+pymongo==4.10.1
+pinecone-client==5.0.1
+
+# AI/ML
+transformers==4.44.2
+scikit-learn==1.5.2
+numpy==2.1.1
+pandas==2.2.2
+
+# Security & Encryption
+cryptography==43.0.1
+bcrypt==4.2.0
+
+# Optional (for async requests, APIs)
+requests==2.32.3
